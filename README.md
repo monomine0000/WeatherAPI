@@ -28,4 +28,5 @@ The frontend runs on default port `3000` and the backend runs on port `9000`
 ```
 cd api
 npm run test
+
 ```
