@@ -4,10 +4,8 @@ Example WeatherAPI backend and frontend app using Typescript, NodeJS, ReactJS an
 <img src="https://i.imgur.com/BK3V4xc.png" alt="widget" width="600"/>
 
 -------
-
 ## Setup 
 First things first, place `.env` file inside of `/api folder`. Here you will need:
-
 ```
 WORLD_WEATHER_ONLINE_API_KEY= //your api key goes here
 BASIC_AUTH_USERNAME= //your choice of username
