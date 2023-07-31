@@ -1,5 +1,5 @@
 # WeatherAPI
-Example WeatherAPI backend and frontend app using Typescript, NodeJS, ReactJS and MySQL
+Example WeatherAPI backend and frontend app using Typescript, NodeJS, ReactJS and MySQL.
 
 <img src="https://i.imgur.com/BK3V4xc.png" alt="widget" width="600"/>
 
